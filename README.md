@@ -2,7 +2,11 @@
 
 In this case study,I Performed the Data analysis, Report Creation, Graphs , Charts, Bar and creation of Dashboards in Tableau Tools.
 
+Dashboard link:
 https://public.tableau.com/app/profile/shudhanshu.kumar/viz/SuperstoreSalesAnalysisDashboard_16412880918400/Dashboard1
+Please go through the all reports and all are included.
+
+Tableau extension file is added in repository
 
 Dataset name-- Superstore Sales
 This Dataset contains 3 sheets,Orders,Returns,People
